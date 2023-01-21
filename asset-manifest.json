@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pro-networking/static/css/main.890cf873.css",
-    "main.js": "/pro-networking/static/js/main.c6e7006d.js",
-    "static/js/787.ec704a7a.chunk.js": "/pro-networking/static/js/787.ec704a7a.chunk.js",
+    "main.css": "/pro-networking/static/css/main.eb0fb390.css",
+    "main.js": "/pro-networking/static/js/main.f5dbdc75.js",
+    "static/js/787.440ba904.chunk.js": "/pro-networking/static/js/787.440ba904.chunk.js",
     "index.html": "/pro-networking/index.html",
-    "main.890cf873.css.map": "/pro-networking/static/css/main.890cf873.css.map",
-    "main.c6e7006d.js.map": "/pro-networking/static/js/main.c6e7006d.js.map",
-    "787.ec704a7a.chunk.js.map": "/pro-networking/static/js/787.ec704a7a.chunk.js.map"
+    "main.eb0fb390.css.map": "/pro-networking/static/css/main.eb0fb390.css.map",
+    "main.f5dbdc75.js.map": "/pro-networking/static/js/main.f5dbdc75.js.map",
+    "787.440ba904.chunk.js.map": "/pro-networking/static/js/787.440ba904.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.890cf873.css",
-    "static/js/main.c6e7006d.js"
+    "static/css/main.eb0fb390.css",
+    "static/js/main.f5dbdc75.js"
   ]
 }
