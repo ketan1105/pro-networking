@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+.navbar_right{
+    display: flex;
+    align-items: center;
+    
+}
+
+.navbar_right > button{
+    color: rgb(0, 71, 171);
+    background-color: whitesmoke;
+    border: none;
+    font-size: 13px;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.navbar_right :hover{
+    background-color: rgb(173, 194, 224);
+}
+

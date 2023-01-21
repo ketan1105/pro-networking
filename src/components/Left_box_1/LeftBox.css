@@ -1,0 +1,46 @@
+.left_box{
+    width : 210px;
+    height : 160px;
+    position : fixed;
+    margin-left : 150px;
+    
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+
+
+.left_box > img{
+    width : 100%;
+    height : 80px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.email{
+    display: flex;
+    flex: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    font-size: 12px;
+    color: gray;
+}
+
+.views{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    align-items: center;
+    height: 30px;
+}
+
+.views > p{
+    font-size: 15px;
+    color: gray;
+}
+
+hr{
+    margin: 0px;
+}
