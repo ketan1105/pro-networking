@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <Navbar />
-      <hr></hr>
+      <hr />
       <HomePage />
     </div>
   );
