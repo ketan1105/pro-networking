@@ -1,6 +1,8 @@
 import './App.css';
 import Navbar from './components/Navbar/Navbar';
 import HomePage from './pages/HomePage/HomePage';
+import AboutUs from './pages/AboutUs/AboutUs';
+import ProfilePage from './pages/ProfilePage/ProfilePage';
 
 
 function App() {
@@ -8,7 +10,9 @@ function App() {
     <div>
       <Navbar />
       <hr />
-      <HomePage />
+     {/* <HomePage /> 
+      <AboutUs />*/}
+      <ProfilePage />
     </div>
   );
 }
