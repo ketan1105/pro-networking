@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pro-networking/static/css/main.f028f664.css",
-    "main.js": "/pro-networking/static/js/main.b969d263.js",
+    "main.css": "/pro-networking/static/css/main.58a9beff.css",
+    "main.js": "/pro-networking/static/js/main.ad73954d.js",
     "static/js/787.440ba904.chunk.js": "/pro-networking/static/js/787.440ba904.chunk.js",
     "index.html": "/pro-networking/index.html",
-    "main.f028f664.css.map": "/pro-networking/static/css/main.f028f664.css.map",
-    "main.b969d263.js.map": "/pro-networking/static/js/main.b969d263.js.map",
+    "main.58a9beff.css.map": "/pro-networking/static/css/main.58a9beff.css.map",
+    "main.ad73954d.js.map": "/pro-networking/static/js/main.ad73954d.js.map",
     "787.440ba904.chunk.js.map": "/pro-networking/static/js/787.440ba904.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f028f664.css",
-    "static/js/main.b969d263.js"
+    "static/css/main.58a9beff.css",
+    "static/js/main.ad73954d.js"
   ]
 }
