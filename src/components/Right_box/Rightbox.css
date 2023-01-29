@@ -44,9 +44,8 @@ a:active {
     background-color: rgb(173, 194, 224);
 }
 
+
 @media screen and (max-width : 700px){
     .right_box{ 
     display : none;}
 }
-
-
